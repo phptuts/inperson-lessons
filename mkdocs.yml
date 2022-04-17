@@ -1,0 +1,10 @@
+site_name: Noah's Live Lessons
+nav:
+  - Home: index.md
+  - How to build a website: lessons/how-to-build-your-first-website.md
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages: ['lua', 'javascript', 'python', 'html', 'css']
+extra_css:
+  - assets/style.css
